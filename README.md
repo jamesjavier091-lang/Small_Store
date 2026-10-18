@@ -145,6 +145,10 @@ The system includes:
 - Protection against negative stock
 - Protection against SQL injection
 
+## Users
+-username: admin / cashier
+-password: admin123 / cashier123
+
 ## Project Structure
 small_store_pos/
 │
